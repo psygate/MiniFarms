@@ -1,0 +1,10 @@
+# Base settings
+searchRadius: 5
+farmBlockType: LAPIS_BLOCK
+
+#Types of plants that can be harvested
+Crops: true
+Carrots: true
+Potatoes: true
+Melons: true
+Pumpkins: true

@@ -1,0 +1,6 @@
+name: MiniFarm
+version: 0.0.1a
+description: Allows usage of small farming devices.
+author: psygate
+database: false
+main: org.psygate.minecraft.minifarm.MiniFarm
